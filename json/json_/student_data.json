@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "name": "Dushyanta kashyap",
+        "age": "22",
+        "city": "ludhiana"
+    },
+    {
+        "id": "2",
+        "name": "himanshu sharma",
+        "age": "21",
+        "city": "ludhiana"
+    },
+    {
+        "id": "3",
+        "name": "kanan",
+        "age": "18",
+        "city": "Mohali"
+    },
+    {
+        "id": "4",
+        "name": "Richa",
+        "age": "18",
+        "city": "amritsar"
+    }
+]
